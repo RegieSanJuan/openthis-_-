@@ -1,4 +1,4 @@
-# openthis-\_-
+# Animated Daisy Flower🌼 
 
 A simple Next.js app that renders a CSS-animated flower garden with optional background music.
 
