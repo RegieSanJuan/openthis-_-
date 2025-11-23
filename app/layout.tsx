@@ -5,7 +5,7 @@ import { GeistMono } from "geist/font/mono";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Animated Daisy Garden",
+  title: "For you",
   description: "Beautiful animated daisy flowers in a magical garden",
 };
 
