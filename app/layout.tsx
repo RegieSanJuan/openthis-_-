@@ -6,7 +6,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "For you",
-  description: "Beautiful animated daisy flowers in a magical garden",
+  description: "Hindi to virus promise kathkath hehe",
 };
 
 export default function RootLayout({
